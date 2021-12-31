@@ -1,6 +1,6 @@
 ### Repository Content
 * **/firmware** : Arduino example codes (.ino)
-* **/hardware** : Eagle design files (.sch and .brd)
+* **/hardware** : Schematic (.pdf)
 * **/production** : gerber file for pcb manufacturing (.zip)
 
 # Cerdas ESP32-Cam
